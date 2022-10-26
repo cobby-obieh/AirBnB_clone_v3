@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Sandra Sarpong - [Github](https://github.com/SandraSarpong)  
-Brenda Agyekum - [Github](https://github.com/Brenda-17) 
+Kwabena Osei-Owusu - [Github](https://github.com/cobby-obieh)  
+Fatima Nankor Acheampong - [Github](https://github.com/codeafrik) 
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
